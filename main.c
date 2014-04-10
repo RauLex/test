@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-123243143124213124331541424132
+
 int main(int argc, char **argv)
 {
     char name[255];
